@@ -1,0 +1,12 @@
+openai
+numpy
+pandas
+pillow 
+requests 
+spicy
+scikit-image
+scikit-learn
+matplotlib
+soundfile
+moviepy
+streamlit 
